@@ -1,0 +1,6 @@
+{
+  "name": "TexTrans Pro - 服装技术资料中英文缝隙对照翻译系统",
+  "description": "专为服装工艺单(Tech Pack)、尺寸规格表(Spec Sheet)、CAD图纸及Excel/BOM设计的同页中英对照翻译工作台。采用原文缝隙嵌入与智能避让算法，100%保留原始版式，融合行业权威术语库与Gemini AI智能解析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
